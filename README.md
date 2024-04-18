@@ -15,7 +15,7 @@ CSS creative list item hover effects
 * CSS3
 
 ## Status
-Project is: _in progress_
+Project is: _complete_
 
 ## Contact
-Created by kaletkof@gmail.com
+Created by k.qaletka@gmail.com
